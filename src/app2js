@@ -1,0 +1,12 @@
+import react, { Component } from "react";
+
+class app2 extends Component {
+  render() {
+    return (
+      <div>
+        <p>Practice</p>
+      </div>
+    );
+  }
+}
+export default app2;
